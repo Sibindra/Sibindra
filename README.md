@@ -1,6 +1,6 @@
-# **Hi i am Sibindra Timalsina**
+<!-- # **Hi i am Sibindra Timalsina**
 ## student developer from Nepal
-open to learning and working on new projects
+open to learning and working on new projects -->
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=react,html,css,js,c,cpp,java,php,mysql,md)](https://skillicons.dev)
