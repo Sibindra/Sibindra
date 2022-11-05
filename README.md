@@ -1,8 +1,8 @@
 <!-- # **Hi i am Sibindra Timalsina**
 ## student developer from Nepal
 open to learning and working on new projects -->
-## My Portfolio
-[Portfolio](https://sibindra.github.io/portfolio/)
+
+## [Portfolio](https://sibindra.github.io/portfolio/)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=react,html,css,js,c,cpp,java,php,mysql,md)](https://skillicons.dev)
